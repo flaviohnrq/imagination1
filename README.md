@@ -14,7 +14,7 @@ transformando ela em array para ter acesso e poder manipular cada pixel da image
 
 imagem2.py já é mais interessante:
 
-  será aplicado um simples algoritimo em cima de cada pixel, que matematicamente transforma a imagem para 'PRETO E BRANCO'
+  será aplicado um simples algoritimo em cima de cada pixel, que transforma a imagem para 'PRETO E BRANCO'
   
   O interessante de fazer esta simples mundança é que com a imagem no formato preto e branco, eu posso rodar outro algoritimo e transforma-la em texto
   (CASO SEJA UMA IMAGEM PEQUENA = <120px²)
