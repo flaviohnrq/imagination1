@@ -1,7 +1,8 @@
 # imagination1
 Um estudo de arrays multidimensionais utilizando os pixels de uma imagem
 
-#utilização
+#utilização.
+
 imagem1.py path_da_imagem
 imagem2.py path_da_imagem
 
