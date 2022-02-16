@@ -3,7 +3,7 @@ Um estudo de arrays multidimensionais utilizando os pixels de uma imagem
 
 #utilização.
 
-imagem1.py path_da_imagem
+imagem1.py path_da_imagem ;
 imagem2.py path_da_imagem
 
 Este app simples, é uma demonstração da forma mais dificil de se abrir uma imagem.
