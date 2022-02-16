@@ -20,3 +20,9 @@ imagem2.py já é mais interessante:
   (CASO SEJA UMA IMAGEM PEQUENA = <120px²)
   
   ...segue imagens de screenshot do terminal e do arquivo txt
+  
+  ![0](01_1.png)
+  ![0](03.png)
+  
+  Exemplo da execução do arquivo 'image1.py'
+  ![0](04.png)
