@@ -3,22 +3,21 @@ import sys
 import numpy as np
 import random
 
-def codasci(z):
-        if (z>215):
-            return '#'
-        if (z>175):
-            return '@'
-        elif (z>150):
-            return 'y'
-        elif (z>125):
-            return ';'
-        elif (z>100):
-            return '~'
-        elif (z>50):
-            return '.'
-        else:
-            return ' '
-
+def codasci(z): #funcao para transformar pixel em texo
+    if (z>215):
+        return '#'
+    if (z>175):
+        return '@'
+    elif (z>150):
+        return 'y'
+    elif (z>125):
+        return ';'
+    elif (z>100):
+        return '~'
+    elif (z>50):
+        return '.'
+    else:
+        return ' '
 
 fazerASCI = False
 arquivo = ''
@@ -46,7 +45,7 @@ tam = img.size #tamanho da imagem
 x = tam[1]
 y = tam[0]
 
-if(x<126 and y<126):
+if(x<126 and y<126): #ver se a imagem é pequena para gerar ela em txt
     print('gerar codigo ASCI no final!')
     fazerASCI=True
 
