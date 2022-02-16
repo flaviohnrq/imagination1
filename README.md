@@ -21,8 +21,8 @@ imagem2.py já é mais interessante:
   
   ...segue imagens de screenshot do terminal e do arquivo txt
   
-  ![0](01_1.png)
-  ![0](03.png)
+  ![0](sc/01_1.png)
+  ![0](sc/03.png)
   
   Exemplo da execução do arquivo 'image1.py'
-  ![0](04.png)
+  ![0](sc/04.png)
